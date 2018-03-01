@@ -1,0 +1,13 @@
+body {
+    background-image: url("http://sleeping-gypsy.com/wordpress/wp-content/uploads/2013/01/zzbluestars.gif");
+}
+
+#box {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    background-image: url("https://vignette.wikia.nocookie.net/chickeninvaders/images/d/d7/Galaga_ship.png");
+    background-size: cover;
+    left: 685px;
+    top: 650px;
+}
