@@ -2,7 +2,7 @@ body {
     background-image: url("http://sleeping-gypsy.com/wordpress/wp-content/uploads/2013/01/zzbluestars.gif");
 }
 
-#box {
+#spaceship {
     width: 70px;
     height: 70px;
     position: absolute;
@@ -10,4 +10,17 @@ body {
     background-size: cover;
     left: 685px;
     top: 650px;
+}
+
+.pew {
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    background-color: white;
+}
+
+li {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
 }
